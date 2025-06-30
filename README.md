@@ -1,0 +1,2 @@
+# TemperatureConverter
+ This is a simple Java console-based application that converts temperature from one unit to another — between Celsius, Fahrenheit, and Kelvin.  The program takes user input for:  The temperature value  The source unit (from which to convert)  The target unit (to which to convert)  It uses basic conditional statements to perform the conversion logic and displays the result in a clean format.
